@@ -1,7 +1,5 @@
 ## Problems
 
-```
-
 1. Create An Array Of Numbers With Some Duplicate Values. Write A Function To Filter Out The Duplicate Values And Return A New Array With Only Unique Numbers. Print The Result.
 
 2. Create An Array Of Objects Representing Books With Properties Like Title, Author, And Year. Write A Function That Takes The Array And Returns A New Array With Only The Book Titles. Print The Result.
@@ -11,7 +9,5 @@
 4. Write A Function That Searches An Array Of Objects For A Specific Person By Name. If Found, Modify Their Age Property. Print The Updated Array.
 
 5. Create An Array Of Numbers. Write A Function That Uses The Reduce Method To Calculate The Sum Of All Even Numbers In The Array.
-
-```
 
 open the file on vscode or cmd and run with `node ./index`, all solutions will be print on the terminal.
