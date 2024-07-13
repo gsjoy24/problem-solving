@@ -14,4 +14,4 @@
 
 ```
 
-run the file with node ./index, all solutions will be print on the terminal.
+open the file on vscode or cmd and run with `node ./index`, all solutions will be print on the terminal.
